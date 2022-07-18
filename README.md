@@ -12,7 +12,7 @@
 
 ## INTRODUCTION
 
-Eniac is an online marketplace specialised in Apple compatible accessories. It was founded 10 years ago in Spain and it has since grown and expanded to other neighbouring countries. Eniac is exploring an expansion to the Brazilian market. Data shows that Brazil has an eCommerce revenue similar to that of Spain and Italy: an already huge market with an even bigger potential for growth.
+Lets starts with information about company called Eniac. Eniac is an online marketplace specialised in Apple compatible accessories. It was founded 10 years ago in Spain and it has since grown and expanded to other neighbouring countries. Eniac is exploring an expansion to the Brazilian market. Data shows that Brazil has an eCommerce revenue similar to that of Spain and Italy: an already huge market with an even bigger potential for growth.
 
 
 
