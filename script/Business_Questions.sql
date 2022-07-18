@@ -1,4 +1,4 @@
-/*Business Questions
+/*Business Questions and answers
 
 in relation to the products:
 
