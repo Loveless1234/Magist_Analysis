@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 * Import the sql script in MySQL workbench 
 
-<img src="https://github.com/Loveless1234/Magist_Analysis/blob/main/resources/images/import_sql.png" width=75% height=75%>
+<img src="import_sql.png" width=75% height=75%>
 
 #### In this same manner We are going to fetch the data from the database and then we are going to transform and load the data in the Tableau to build the dashboard.
 

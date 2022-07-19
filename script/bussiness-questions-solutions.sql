@@ -2,7 +2,7 @@
 GOAL: Solve questions of teh section "Answer Business Questions"
 DESCRIPTION: 
 	Provide a solution to the main business questions: 
-    https://platform.wbscodingschool.com/courses/data-science/8744/
+
     Remember to always keep on mind the Eniac's strategy: 
 		* Is Magist is a good fit for high-end tech products?
 		* Are orders delivered on time?

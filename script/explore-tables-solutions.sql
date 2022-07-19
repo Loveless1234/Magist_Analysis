@@ -1,8 +1,5 @@
 /*
 GOAL: solve questions of "Explore the tables" section
-DESCRIPTION: 
-	Provide a simple solution for the questions on the section "Explore the tables"
-    https://platform.wbscodingschool.com/courses/data-science/8738/
 */
 USE magist;
 
