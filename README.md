@@ -14,6 +14,13 @@
 
 Lets starts with information about company called Eniac. Eniac is an online marketplace specialised in Apple compatible accessories. It was founded 10 years ago in Spain and it has since grown and expanded to other neighbouring countries. Eniac is exploring an expansion to the Brazilian market. Data shows that Brazil has an eCommerce revenue similar to that of Spain and Italy: an already huge market with an even bigger potential for growth.
 
+Here are some numbers that helped me to understand Eniac’s scope (data from April 2017 – March 2018):
+
+* ## Revenue: 40,044,542 €
+* ## Avg monthly revenue: 1,011,256 €
+* ## Avg order price: 710 €
+* ## Avg item price: 540 €
+
 
 
 ## PROBLEM STATEMENT
@@ -38,7 +45,7 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 * Import the sql script in MySQL workbench 
 
-<img src="import_sql.png" width=75% height=75%>
+<img src="https://github.com/Loveless1234/Magist_Analysis/blob/main/resources/images/import_sql.png" width=75% height=75%>
 
 #### In this same manner We are going to fetch the data from the database and then we are going to transform and load the data in the Tableau to build the dashboard.
 
